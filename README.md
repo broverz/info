@@ -1,5 +1,3 @@
----
-
 <div align="center">
 <h3 align='center' style='text-decoration: underline'> <u> Technologies </u> </h3> <br> 
   <p>
