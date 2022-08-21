@@ -32,5 +32,6 @@
 </div>
   
 ---
-[brover](https://github.com/brover_z)
+<center>[brover](https://github.com/broverz)</center>
+---
 <br />
