@@ -1,3 +1,5 @@
+---
+
 <div align="center">
 <h3 align='center' style='text-decoration: underline'> <u> Technologies </u> </h3> <br> 
   <p>
@@ -31,7 +33,5 @@
   </p>
 </div>
   
----
-<center>[brover](https://github.com/broverz)</center>
 ---
 <br />
